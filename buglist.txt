@@ -1,0 +1,14 @@
+LinkedListOfInts()  1. do not creat a empty list
+~LinkedListOfInts() 2. do not delete the linkedlist
+isEmpty()           3. whem empty return 0 and not empty return 1
+size()              4. not return the true value in list
+search()            5. return false if the element in it
+                    6. retutn true if the element not in it
+addBack()           7. do not add the element to the back
+                    8. add the element to wrong place
+addFront()          9. do not add the element to the font
+                    10. add the element to wrong place
+removeBack()        11. do not remove the element from the back
+                    12. always return false
+removeFront()       13. do not remove the element from the Front
+                    14. always return false
